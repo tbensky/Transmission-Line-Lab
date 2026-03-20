@@ -1,0 +1,26 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Resistance, Capacitance, Inductance, and AC vs. DC}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Theory}{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{Derivations}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.2}{Calculations}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Capacitive and Inductive Measurements}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Voltage divider}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Capacitance of the transmission line}{subsection.3.1}% 8
+\BOOKMARK [2][-]{subsection.3.2}{The LC Circuit}{section.3}% 9
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Inductance of the transmission line}{subsection.3.2}% 10
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Corrections to L}{subsection.3.2}% 11
+\BOOKMARK [2][-]{subsection.3.3}{Meter}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.4}{Stop and check}{section.3}% 13
+\BOOKMARK [1][-]{section.4}{Pulse Propagation}{}% 14
+\BOOKMARK [2][-]{subsection.4.1}{Pulse Speed in transmission line}{section.4}% 15
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Pulse speed propagation: theory}{subsection.4.1}% 16
+\BOOKMARK [2][-]{subsection.4.2}{Pulse speed propagation: transmission line}{section.4}% 17
+\BOOKMARK [1][-]{section.5}{Impedance of the transmission line}{}% 18
+\BOOKMARK [2][-]{subsection.5.1}{Transmission line impedance: a model}{section.5}% 19
+\BOOKMARK [3][-]{subsubsection.5.1.1}{Circuit analysis review and warm-up}{subsection.5.1}% 20
+\BOOKMARK [3][-]{subsubsection.5.1.2}{Model a transmission line}{subsection.5.1}% 21
+\BOOKMARK [2][-]{subsection.5.2}{Evaluate Z0}{section.5}% 22
+\BOOKMARK [2][-]{subsection.5.3}{The far end of the transmission line}{section.5}% 23
+\BOOKMARK [2][-]{subsection.5.4}{Data: \040vs ZL}{section.5}% 24
+\BOOKMARK [2][-]{subsection.5.5}{Derivation: Potential relationship between ZL vs. Z0}{section.5}% 25
+\BOOKMARK [1][-]{section.6}{Wrap-up}{}% 26
