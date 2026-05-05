@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.25)  5 MAY 2026 11:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.25)  5 MAY 2026 11:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -354,28 +354,32 @@ File: Figs/coax.png Graphic file (type png)
 Package pdftex.def Info: Figs/coax.png  used on input line 41.
 (pdftex.def)             Requested size: 150.56212pt x 105.3935pt.
  [2 <./Figs/coax.png>] [3]
-<Figs/LC.png, id=169, 195.73125pt x 156.585pt>
+Overfull \hbox (30.08826pt too wide) in paragraph at lines 104--105
+\OT1/cmr/m/n/12 used to find $\OML/cmm/m/it/12 C$\OT1/cmr/m/n/12 . (See https:/
+/github.com/tbensky/Transmission-Line-Lab/blob/main/transline.pdf
+ []
+
+<Figs/LC.png, id=170, 195.73125pt x 156.585pt>
 File: Figs/LC.png Graphic file (type png)
 <use Figs/LC.png>
 Package pdftex.def Info: Figs/LC.png  used on input line 117.
 (pdftex.def)             Requested size: 195.73076pt x 156.58461pt.
 
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [4] [5 <./Figs/LC.png>] [6] [7]
-<Figs/Feynman/z01.png, id=200, 339.2675pt x 292.09125pt>
+<Figs/Feynman/z01.png, id=201, 339.2675pt x 292.09125pt>
 File: Figs/Feynman/z01.png Graphic file (type png)
 <use Figs/Feynman/z01.png>
 Package pdftex.def Info: Figs/Feynman/z01.png  used on input line 217.
 (pdftex.def)             Requested size: 169.63333pt x 146.04526pt.
  [8]
-<Figs/Feynman/z02.png, id=212, 204.765pt x 306.14375pt>
+<Figs/Feynman/z02.png, id=213, 204.765pt x 306.14375pt>
 File: Figs/Feynman/z02.png Graphic file (type png)
 <use Figs/Feynman/z02.png>
 Package pdftex.def Info: Figs/Feynman/z02.png  used on input line 226.
 (pdftex.def)             Requested size: 102.38223pt x 153.07149pt.
-<Figs/Feynman/z03.png, id=215, 549.05125pt x 272.01625pt>
+<Figs/Feynman/z03.png, id=216, 549.05125pt x 272.01625pt>
 File: Figs/Feynman/z03.png Graphic file (type png)
 <use Figs/Feynman/z03.png>
 Package pdftex.def Info: Figs/Feynman/z03.png  used on input line 235.
@@ -384,7 +388,7 @@ Package pdftex.def Info: Figs/Feynman/z03.png  used on input line 235.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figs/Feynman/z04.png, id=220, 377.41pt x 232.87pt>
+<Figs/Feynman/z04.png, id=221, 377.41pt x 232.87pt>
 File: Figs/Feynman/z04.png Graphic file (type png)
 <use Figs/Feynman/z04.png>
 Package pdftex.def Info: Figs/Feynman/z04.png  used on input line 244.
@@ -392,7 +396,7 @@ Package pdftex.def Info: Figs/Feynman/z04.png  used on input line 244.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figs/Feynman/z05.png, id=222, 288.07625pt x 226.8475pt>
+<Figs/Feynman/z05.png, id=223, 288.07625pt x 226.8475pt>
 File: Figs/Feynman/z05.png Graphic file (type png)
 <use Figs/Feynman/z05.png>
 Package pdftex.def Info: Figs/Feynman/z05.png  used on input line 253.
@@ -400,7 +404,7 @@ Package pdftex.def Info: Figs/Feynman/z05.png  used on input line 253.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figs/Feynman/z06.png, id=224, 238.8925pt x 244.915pt>
+<Figs/Feynman/z06.png, id=225, 238.8925pt x 244.915pt>
 File: Figs/Feynman/z06.png Graphic file (type png)
 <use Figs/Feynman/z06.png>
 Package pdftex.def Info: Figs/Feynman/z06.png  used on input line 260.
@@ -409,7 +413,7 @@ Package pdftex.def Info: Figs/Feynman/z06.png  used on input line 260.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [9 <./Figs/Feynman/z01.png> <./Figs/Feynman/z02.png>]
-<Figs/Feynman/linezs.png, id=241, 585.18625pt x 196.735pt>
+<Figs/Feynman/linezs.png, id=242, 585.18625pt x 196.735pt>
 File: Figs/Feynman/linezs.png Graphic file (type png)
 <use Figs/Feynman/linezs.png>
 Package pdftex.def Info: Figs/Feynman/linezs.png  used on input line 275.
@@ -418,7 +422,7 @@ Package pdftex.def Info: Figs/Feynman/linezs.png  used on input line 275.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figs/Feynman/add_one.png, id=243, 454.69875pt x 228.855pt>
+<Figs/Feynman/add_one.png, id=244, 454.69875pt x 228.855pt>
 File: Figs/Feynman/add_one.png Graphic file (type png)
 <use Figs/Feynman/add_one.png>
 Package pdftex.def Info: Figs/Feynman/add_one.png  used on input line 286.
@@ -476,77 +480,69 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 [14]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 387.
+(hyperref)                removing `math shift' on input line 388.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 387.
+(hyperref)                removing `subscript' on input line 388.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 387.
+(hyperref)                removing `math shift' on input line 388.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 387.
+(hyperref)                removing `math shift' on input line 388.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 387.
+(hyperref)                removing `subscript' on input line 388.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 387.
+(hyperref)                removing `math shift' on input line 388.
 
-<Figs/circuit.png, id=295, 190.7125pt x 153.57375pt>
+<Figs/circuit.png, id=296, 190.7125pt x 153.57375pt>
 File: Figs/circuit.png Graphic file (type png)
 <use Figs/circuit.png>
-Package pdftex.def Info: Figs/circuit.png  used on input line 395.
+Package pdftex.def Info: Figs/circuit.png  used on input line 396.
 (pdftex.def)             Requested size: 190.71202pt x 153.57336pt.
 [15 <./Figs/circuit.png>] [16] (./transline.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `transline.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `transline.out':
-(rerunfilecheck)             Before: A15639714E513D150E12B5E701C969AC;1903
-(rerunfilecheck)             After:  EBB80FC364E5F64DADB3BF4591EE2776;4841.
+Package rerunfilecheck Info: File `transline.out' has not changed.
+(rerunfilecheck)             Checksum: B8D63A13F3E903C30A56853E40C1FBC5;4861.
  ) 
 Here is how much of TeX's memory you used:
- 10618 strings out of 474116
- 162703 string characters out of 5743682
+ 10623 strings out of 474116
+ 162749 string characters out of 5743682
  1942187 words of memory out of 5000000
- 32802 multiletter control sequences out of 15000+600000
- 564811 words of font info for 60 fonts, out of 8000000 for 9000
+ 32804 multiletter control sequences out of 15000+600000
+ 565776 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,8n,79p,664b,464s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
-usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
-r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
-local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
-cal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local
-/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/te
-xlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texli
-ve/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texliv
-e/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
-/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2
-024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on transline.pdf (16 pages, 348152 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
+sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
+al/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/
+texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/tex
+live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texliv
+e/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive
+/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
+2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/20
+24/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/202
+4/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on transline.pdf (16 pages, 371222 bytes).
 PDF statistics:
- 384 PDF objects out of 1000 (max. 8388607)
- 312 compressed objects within 4 object streams
+ 394 PDF objects out of 1000 (max. 8388607)
+ 318 compressed objects within 4 object streams
  73 named destinations out of 1000 (max. 500000)
  264 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -101,7 +101,7 @@ Build a voltage divider using a $10$ k$\Omega$ resistor as $Z_1$ and $Z_2$ as th
 
 Note here, $Z_1=10,000\ \Omega$ and $Z_2=X_c$ where $X_c$ is the capacitive reactance of the transmission line, which is $X_c=1/(2\pi fC)$. Plug these values/quantities into the equation for a voltage divider and solve for $C$. 
 
-To prepare for data analysis, linearize your equation for $C$, so the slope of a linear fit can be used to find $C$. (See the PDF in this repo.)
+To prepare for data analysis, linearize your equation for $C$, so the slope of a linear fit can be used to find $C$. (See https://github.com/tbensky/Transmission-Line-Lab/blob/main/transline.pdf for hints/help with this.)
 
 Next, place an AC signal across the voltage divider. Monitor the peak-to-peak voltage on CH1 of your oscilloscope, which is $V_\text{in}$. On CH2, monitor the peak to peak voltage across the transmission line, which is $V_\text{out}$. Measure $V_\text{out}$ vs. $V_\text{in}$ for a variety of driving frequencies from 1000 - 10,000 Hz. Use this data and your linearized equation for $C$ to perform a curve fit. Use your fit parameters to find $C$. This is the capacitance of the transmission line.
 
